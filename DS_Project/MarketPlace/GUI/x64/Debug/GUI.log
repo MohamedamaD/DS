@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\DS_Project\MarketPlace\GUI\MyForm.h(29,50): warning C4677: 'ClientInformation': signature of non-private member contains assembly private type 'Client'
+D:\DS_Project\MarketPlace\GUI\Client.h(4): message : see declaration of 'Client'
+D:\DS_Project\MarketPlace\GUI\MyForm.h(31,41): warning C4677: 'Products': signature of non-private member contains assembly private type 'Product'
+D:\DS_Project\MarketPlace\GUI\Product.h(6): message : see declaration of 'Product'
+  Cart.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GUI.vcxproj -> D:\DS_Project\MarketPlace\x64\Debug\GUI.exe

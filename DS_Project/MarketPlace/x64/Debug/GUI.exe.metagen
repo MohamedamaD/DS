@@ -1,0 +1,36 @@
+  GUI.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly GUI, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class GUI.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.Dictionary`2[System.String,Client] ClientInformation IsByValue : Public, InitOnly
+    System.String ClientKey : Public
+    System.Collections.Generic.Dictionary`2[System.String,Product] Products IsByValue : Public, InitOnly
+    System.Collections.Generic.List`1[System.String] ProductKey IsByValue : Public, InitOnly
+    System.Collections.Generic.List`1[System.String] localCategory IsByValue : Public, InitOnly
+    System.String productCategoryKey : Public
+    System.String path : Public
+    System.IO.StreamWriter WFile : Public
+    System.IO.StreamReader RFile : Public
+  Methods:
+    transferDataFromFileToVector(): PrivateScope, Public, HideBySig
+    transferDataFromVectorToFile(): PrivateScope, Public, HideBySig
+    transferProductsFromFileToVector(): PrivateScope, Public, HideBySig
+    transferProductsFromVectortoFile(): PrivateScope, Public, HideBySig
+    transferCartFromFileToVector(): PrivateScope, Public, HideBySig
+    transferCartFromVectorToFile(): PrivateScope, Public, HideBySig

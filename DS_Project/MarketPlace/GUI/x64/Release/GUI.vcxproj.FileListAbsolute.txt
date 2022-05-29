@@ -1,0 +1,2 @@
+D:\Study\Year2\Data Structures\Projects\DS-PROJECT\DS_Project\MarketPlace\GUI\x64\Release\GUI.MyForm.resources
+D:\Study\Year2\Data Structures\Projects\DS-PROJECT\DS_Project\MarketPlace\GUI\x64\Release\GUI.vcxproj.GenerateResource.cache

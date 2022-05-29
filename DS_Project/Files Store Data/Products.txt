@@ -1,0 +1,8 @@
+Id	SellerId	Name	Price	Quantity	Category
+1111	1	apple	50	120930	fruits|xx|zz
+0000	1	0	12	155	asd
+0	1	s	12	109	asd
+11211	12345679	YouApple	60	120	apple
+d2221	1	appel	30	11	apple
+1111111111111	1	11111	111111	11	1
+11111111	1	apple	111111	111095	1

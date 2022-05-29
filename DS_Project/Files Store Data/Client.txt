@@ -1,0 +1,20 @@
+Id	Name	Email	Address	PhoneNum	Password	IsSeller
+12345	mohamed emad ali	kasfjkasfj@gmail.com	alskfasfl	alsmfasm	1152114964	FALSE
+123451	mohamed emad ali2	kasfjka24sfj@gmail.com	alskfasfl	alsmfasm	1152114964	FALSE
+1234511	hany abysif	maksng@ams2	12120asfasf			TRUE
+33	2	kasfjkasfj@gmail.wcom	wrqwqf			TRUE
+22	mohamed emad ali	alsfmalsfm	laaslfm2			FALSE
+133255155	hany abysif	asfasfqwg2	awgqwgas			FALSE
+1	1	1	1			TRUE
+0	0	0	0	0	0	FALSE
+asfasf2	24aasfasf	1@gmail	asfasf21133			FALSE
+	ksmfl	asfkn@.asf	2131532132			FALSE
+12352152265	mostafa	mostaf1a@gmail.com	1.23457E+11			TRUE
+11111111	11111111	1111111@f	11111111111			FALSE
+21451611	zxcv	asasfaf@asf	213155112e			FALSE
+1.11111E+14	111111	1222@3	1.11111E+14			FALSE
+125125125	12455555	12412@124	25125125			FALSE
+12345679	yousef emad ali	yousef@gmail.com	123456789			FALSE
+1.11111E+20	1.11111E+15	111111111@	1.11111E+12			FALSE
+111111111	11	1111@	111111111	11111111	11111111	FALSE
+1.25124E+11	124124	FALSE	FALSE	FALSE	FALSE	FALSE

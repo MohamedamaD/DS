@@ -1,0 +1,12 @@
+D:\Study\Year2\Data Structures\Projects\DS-PROJECT\DS_Project\MarketPlace\GUI\x64\Debug\GUI.MyForm.resources
+D:\Study\Year2\Data Structures\Projects\DS-PROJECT\DS_Project\MarketPlace\GUI\x64\Debug\GUI.vcxproj.GenerateResource.cache
+D:\Study\Year2\Data Structures\Projects\DS-PROJECT\DS_Project\MarketPlace\GUI\x64\Debug\GUI.vcxprojAssemblyReference.cache
+D:\DS_Project\MarketPlace\GUI\x64\Debug\GUI.vcxprojAssemblyReference.cache
+D:\DS_Project\MarketPlace\GUI\x64\Debug\GUI.MyForm.resources
+D:\DS_Project\MarketPlace\GUI\x64\Debug\GUI.vcxproj.GenerateResource.cache
+D:\Study\Year2\Data Structures\Projects\DS-PROJECT\DS_Project\DS_Project_HashTable\MarketPlace\GUI\x64\Debug\GUI.vcxprojAssemblyReference.cache
+D:\Study\Year2\Data Structures\Projects\DS-PROJECT\DS_Project\DS_Project_HashTable\MarketPlace\GUI\x64\Debug\GUI.MyForm.resources
+D:\Study\Year2\Data Structures\Projects\DS-PROJECT\DS_Project\DS_Project_HashTable\MarketPlace\GUI\x64\Debug\GUI.vcxproj.GenerateResource.cache
+D:\DS_Project_HashTable\MarketPlace\GUI\x64\Debug\GUI.vcxprojAssemblyReference.cache
+D:\DS_Project_HashTable\MarketPlace\GUI\x64\Debug\GUI.MyForm.resources
+D:\DS_Project_HashTable\MarketPlace\GUI\x64\Debug\GUI.vcxproj.GenerateResource.cache

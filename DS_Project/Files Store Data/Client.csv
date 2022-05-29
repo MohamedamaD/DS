@@ -1,0 +1,14 @@
+Id,Name,Email,Address,PhoneNum,Password,seller
+10101010,tina,tina@gmail.com,new cairo,11122233,tina1111,False
+20202020,yara1,yara1@gmail.com,   new york,12345678,yara1222,False
+30303030,yara2,yara2@gmail.com,california,24681012,yara2333,False
+40404040,yara3,yara3@gmail.com,hamburg,13579111,yara3444,False
+50505050,mohamed1,mohamed1@gmail.com,berlin,22334455,mohamed5,False
+60606060,mohamed2,mohamed2@gmail.com,paris,66778899,mohamed6,False
+70707070,mahmoud,mahmoud@gmail.com,barcelona,11223344,mahmoud7,False
+11111111,ali,ali@gmail.com,0,0,ali88888,True
+22222222,nada,nada@gmail.com,0,0,nada9999,True
+33333333,yosra,yosra@gmail.com,0,0,yosra111,True
+44444444,yomna,yomna@gmail.cim,0,0,yomna222,True
+55555555,sara,sara@gmail.com,0,0,sara3333,True
+66666666,omar,omar@gmail.com,0,0,omar4444,True
